@@ -1,0 +1,55 @@
+boto==2.49.0
+boto3==1.9.66
+botocore==1.12.67
+cachetools @ file:///tmp/build/80754af9/cachetools_1607706694405/work
+certifi==2020.12.5
+cffi @ file:///C:/ci/cffi_1606255207413/work
+chardet @ file:///C:/ci/chardet_1607706910910/work
+cryptography @ file:///C:/ci/cryptography_1607639129468/work
+cycler==0.10.0
+docutils==0.16
+gensim==3.8.0
+google-api-core @ file:///C:/ci/google-api-core-split_1601307128777/work
+google-auth @ file:///tmp/build/80754af9/google-auth_1600960338579/work
+google-cloud-core @ file:///tmp/build/80754af9/google-cloud-core_1608056104900/work
+google-cloud-storage @ file:///tmp/build/80754af9/google-cloud-storage_1608139055921/work
+google-crc32c @ file:///C:/ci/google-crc32c_1608056321467/work
+google-resumable-media @ file:///tmp/build/80754af9/google-resumable-media_1608056254223/work
+googleapis-common-protos @ file:///C:/ci/googleapis-common-protos-feedstock_1600455733359/work
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
+joblib==0.17.0
+kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
+matplotlib @ file:///C:/ci/matplotlib-base_1603356257853/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict @ file:///C:/ci/multidict_1607367865052/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+olefile==0.46
+pandas @ file:///C:/ci/pandas_1608063532995/work
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+protobuf==3.13.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
+s3transfer==0.1.13
+scikit-learn==0.23.2
+scipy==1.5.4
+six @ file:///C:/ci/six_1605205426665/work
+smart-open==2.0.0
+threadpoolctl==2.1.0
+torch==1.6.0
+torchvision==0.7.0
+tornado @ file:///C:/ci/tornado_1606935947090/work
+urllib3==1.24.3
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+yarl @ file:///C:/ci/yarl_1598045271760/work
